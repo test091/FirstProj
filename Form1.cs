@@ -121,5 +121,10 @@ namespace WindowsFormsApplication4
             Disp1.Text = ("2");
         }
         
+        private void btn3_Click(object sender, EventArgs e)
+        {
+            Disp1.Text = ("3");
+        }
+        
     }
 }
